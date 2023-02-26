@@ -14,3 +14,5 @@ describe('Greet', () => {
         expect(textElement).toBeInTheDocument();
     });
 });
+
+// 5,20,000
